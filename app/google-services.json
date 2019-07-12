@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "688539781791",
+    "firebase_url": "https://eakes-1525442411999.firebaseio.com",
+    "project_id": "eakes-1525442411999",
+    "storage_bucket": "eakes-1525442411999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688539781791:android:7dc211516b746d33",
+        "android_client_info": {
+          "package_name": "com.example.jelln.aedescontainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688539781791-s2cbjrehg3lsfasl4igunqj558lssnli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jelln.aedescontainer",
+            "certificate_hash": "671dce9e51bbbbd3e8080ccc09b64452ee163f86"
+          }
+        },
+        {
+          "client_id": "688539781791-cik1a7puf2tbpfaigb91e5l4g7h82iqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fQy5rlUCrvgXK_6wgFW_QgmN2IMW7ng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688539781791-cik1a7puf2tbpfaigb91e5l4g7h82iqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688539781791:android:fa28d6c28c0d9142",
+        "android_client_info": {
+          "package_name": "com.example.jelln.agentescontainers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688539781791-sqle5lu6agggfjp6d755cb092u29eu1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jelln.agentescontainers",
+            "certificate_hash": "671dce9e51bbbbd3e8080ccc09b64452ee163f86"
+          }
+        },
+        {
+          "client_id": "688539781791-cik1a7puf2tbpfaigb91e5l4g7h82iqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fQy5rlUCrvgXK_6wgFW_QgmN2IMW7ng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688539781791-cik1a7puf2tbpfaigb91e5l4g7h82iqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
