@@ -18,7 +18,7 @@
         android:theme="@style/AppTheme">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDWrfR2Iy_DVJX2nUEhEqJVarTRV-BBfRU" />
+            android:value="Coloque a chave de API aqui" />
 
         <activity android:name=".view.Splash">
             <intent-filter>
