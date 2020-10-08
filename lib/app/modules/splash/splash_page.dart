@@ -27,7 +27,7 @@ class _SplashPageState extends State<SplashPage> {
         } else if (auth.status == AuthStatus.logoff) {
           Modular.to.pushReplacementNamed('/login');
         }*/
-        Modular.to.pushReplacementNamed('/login');
+        Modular.to.pushReplacementNamed('/start');
       });
     });
 
