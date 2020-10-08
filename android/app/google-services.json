@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "31855902720",
+    "firebase_url": "https://siclosapp.firebaseio.com",
+    "project_id": "siclosapp",
+    "storage_bucket": "siclosapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31855902720:android:3d5144ccb4da698926d8e5",
+        "android_client_info": {
+          "package_name": "br.com.siclos.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31855902720-9n6u35jk69up9i95hi4t06g5ng9e9cqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHxLWTc7G6bGidnwwXvcRoZ1fytthvzr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31855902720-9n6u35jk69up9i95hi4t06g5ng9e9cqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31855902720-7mqpjrvk5j94mmrujm7kqbeeglcc4kfv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.siclos.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
